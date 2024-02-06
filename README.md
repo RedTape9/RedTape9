@@ -41,7 +41,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Debugging](https://img.shields.io/badge/debugging-%23FADA5E.svg?style=for-the-badge&logo=debugging&logoColor=black)](#) 
 
-### :werkzeugkasten: Text Editors and IDEs
+### 🧰 Text Editors and IDEs
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Eclipse](https://img.shields.io/badge/Eclipse-%231C1E25.svg?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
