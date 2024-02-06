@@ -64,7 +64,7 @@
 - Oracle Certified Associate Java SE 8 Programmer
   - Juni 2023
   - Score: 82.1
-  ![Java Badge](https://img.shields.io/badge/Java-Certified-orange?style=for-the-badge&logo=java&logoColor=white)
+  ![Java Badge]([https://img.shields.io/badge/Java-Certified-orange?style=for-the-badge&logo=java&logoColor=white](https://education.oracle.com/file/general/Oracle_Professional_Badge_final.png))
 
 
 
