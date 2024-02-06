@@ -48,6 +48,23 @@
 [![Eclipse](https://img.shields.io/badge/Eclipse-%231C1E25.svg?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
 
+### 🎓 Certifications
+
+- Certified JavaScript Developer
+  - Webmasters Europe, Dezember 2022
+  - Score: 80/100
+  - Verifizierungs-Code: E4T86MK4K0U61UDD
+  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-Certified-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+
+- PHP Zend Certified Engineer
+  - April 2023
+  - Zend ID: ZEND033550
+  ![PHP Badge](https://img.shields.io/badge/PHP-Certified-blue?style=for-the-badge&logo=php&logoColor=white)
+
+- Oracle Certified Associate Java SE 8 Programmer
+  - Juni 2023
+  - Score: 82.1
+  ![Java Badge](https://img.shields.io/badge/Java-Certified-orange?style=for-the-badge&logo=java&logoColor=white)
 
 
 
