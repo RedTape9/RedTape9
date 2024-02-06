@@ -58,22 +58,23 @@
 
 ### 🎓 Certifications
 
-[![JavaScript Badge]([https://pfad_zum_JavaScript_Badge](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E))](https://de.webmasters-europe.org/exams/verify)
+[![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://de.webmasters-europe.org/exams/verify)
 - Certified JavaScript Developer
   - Webmasters Europe, Dezember 2022
   - Score: 80/100
   - WE-ID: 011238435
   - Verifizierungs-Code: E4T86MK4K0U61UDD
 
-[![PHP Badge]([https://pfad_zum_PHP_Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white))](https://www.zend-zce.com/en/yellow-pages/ZEND033550)
+[![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.zend-zce.com/en/yellow-pages/ZEND033550)
 - PHP Zend Certified Engineer
   - April 2023
   - Zend ID: ZEND033550
 
-[![Java Badge]([https://pfad_zum_Java_Badge](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white))](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CFFC1DAAE867F6F230CC7308CC1F9E364134F5201569A2CEC5BF9F478A94D1EC)
+[![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CFFC1DAAE867F6F230CC7308CC1F9E364134F5201569A2CEC5BF9F478A94D1EC)
 - Oracle Certified Associate Java SE 8 Programmer
   - Juni 2023
   - Score: 82.1
+
 
 
 
