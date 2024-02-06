@@ -65,12 +65,12 @@
   - WE-ID: 011238435
   - Verifizierungs-Code: E4T86MK4K0U61UDD
 
-[![PHP Zend Badge](https://www.zend.com/sites/zend/files/image/2019-09/zce-php-engineer-logo-l.jpg)](https://www.zend-zce.com/en/yellow-pages/ZEND033550)
+[![PHP Zend Badge](https://www.zend.com/sites/zend/files/image/2019-09/zce-php-engineer-logo-l.jpg?size=50x50)](https://www.zend-zce.com/en/yellow-pages/ZEND033550)
 - PHP Zend Certified Engineer
   - April 2023
   - Zend ID: ZEND033550
 
-[![OCA Badge](https://education.oracle.com/file/general/Oracle_Professional_Badge_final.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CFFC1DAAE867F6F230CC7308CC1F9E364134F5201569A2CEC5BF9F478A94D1EC)
+[![OCA Badge](https://education.oracle.com/file/general/Oracle_Professional_Badge_final.png?size=50x50)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CFFC1DAAE867F6F230CC7308CC1F9E364134F5201569A2CEC5BF9F478A94D1EC)
 - Oracle Certified Associate Java SE 8 Programmer
   - Juni 2023
   - Score: 82.1
