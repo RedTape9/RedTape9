@@ -58,41 +58,22 @@
 
 ### 🎓 Certifications
 
-<div style="display: flex; gap: 20px; align-items: center;">
-  <a href="https://de.webmasters-europe.org/exams/verify">
-    <img src="https://media.licdn.com/dms/image/C4D0BAQG3Oi-e74RUWQ/company-logo_200_200/0/1630520842724/european_webmaster_association___webmasters_europe_ev_logo?e=2147483647&v=beta&t=XwPmaEdiLgcPDEOFSTSac0azgItqgtI5o9qSEjfgJSU" alt="Webmasters Europe Logo" width="100">
-  </a>
-  <div>
-    <p>Certified JavaScript Developer</p>
-    <p>Webmasters Europe, Dezember 2022</p>
-    <p>Score: 80/100</p>
-    <p>WE-ID: 011238435</p>
-    <p>Verifizierungs-Code: E4T86MK4K0U61UDD</p>
-  </div>
-</div>
+[![Webmasters Europe Logo](https://media.licdn.com/dms/image/C4D0BAQG3Oi-e74RUWQ/company-logo_200_200/0/1630520842724/european_webmaster_association___webmasters_europe_ev_logo?e=2147483647&v=beta&t=XwPmaEdiLgcPDEOFSTSac0azgItqgtI5o9qSEjfgJSU)](https://de.webmasters-europe.org/exams/verify)
+- Certified JavaScript Developer
+  - Webmasters Europe, Dezember 2022
+  - Score: 80/100
+  - WE-ID: 011238435
+  - Verifizierungs-Code: E4T86MK4K0U61UDD
 
-<div style="display: flex; gap: 20px; align-items: center;">
-  <a href="https://www.zend-zce.com/en/yellow-pages/ZEND033550">
-    <img src="https://www.zend.com/sites/zend/files/image/2019-09/zce-php-engineer-logo-l.jpg" alt="PHP Zend Badge" width="100">
-  </a>
-  <div>
-    <p>PHP Zend Certified Engineer</p>
-    <p>April 2023</p>
-    <p>Zend ID: ZEND033550</p>
-  </div>
-</div>
+[![PHP Zend Badge](https://www.zend.com/sites/zend/files/image/2019-09/zce-php-engineer-logo-l.jpg)](https://www.zend-zce.com/en/yellow-pages/ZEND033550)
+- PHP Zend Certified Engineer
+  - April 2023
+  - Zend ID: ZEND033550
 
-<div style="display: flex; gap: 20px; align-items: center;">
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=CFFC1DAAE867F6F230CC7308CC1F9E364134F5201569A2CEC5BF9F478A94D1EC">
-    <img src="[[https://education.oracle.com/file/general/Oracle_Professional_Badge_final.png](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.credly.com%2Fimages%2Fa9848abf-f8bd-474d-a9b4-6086da11a916%2FOracle_Associates_Badge__1_.png&f=1&nofb=1&ipt=988a580cf81f27b7659cdff0e8b018d8c02da31855131e8b2ec3c9151cb643b1&ipo=images](https://education.oracle.com/file/general/Oracle-Certification-badge_OC-Associate.png))" alt="OCA Badge" width="100">
-  </a>
-  <div>
-    <p>Oracle Certified Associate Java SE 8 Programmer</p>
-    <p>Juni 2023</p>
-    <p>Score: 82.1</p>
-  </div>
-</div>
-
+[![OCA Badge](https://education.oracle.com/file/general/Oracle_Professional_Badge_final.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CFFC1DAAE867F6F230CC7308CC1F9E364134F5201569A2CEC5BF9F478A94D1EC)
+- Oracle Certified Associate Java SE 8 Programmer
+  - Juni 2023
+  - Score: 82.1
 
 
 
