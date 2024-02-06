@@ -31,6 +31,10 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![phpMyAdmin Badge](https://img.shields.io/badge/phpMyAdmin-Orange?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![WordPress Badge](https://img.shields.io/badge/WordPress-Blue?style=for-the-badge&logo=wordpress&logoColor=white)
+![Joomla Badge](https://img.shields.io/badge/Joomla-Yellow?style=for-the-badge&logo=joomla&logoColor=white)
+![XAMPP Badge](https://img.shields.io/badge/XAMPP-Orange?style=for-the-badge&logo=xampp&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Expo CLI](https://img.shields.io/badge/Expo_CLI-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
@@ -41,6 +45,10 @@
 [![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Debugging](https://img.shields.io/badge/debugging-%23FADA5E.svg?style=for-the-badge&logo=debugging&logoColor=black)](#) 
+![XML Badge](https://img.shields.io/badge/XML-Red?style=for-the-badge&logo=xml&logoColor=white)
+![JSON Badge](https://img.shields.io/badge/JSON-Green?style=for-the-badge&logo=json&logoColor=white)
+![RegEx Badge](https://img.shields.io/badge/RegEx-Blue?style=for-the-badge&logo=regex&logoColor=white)
+
 
 ### 🧰 Text Editors and IDEs
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
@@ -50,21 +58,41 @@
 
 ### 🎓 Certifications
 
-- Certified JavaScript Developer
-  - Webmasters Europe, Dezember 2022
-  - Score: 80/100
-  - Verifizierungs-Code: E4T86MK4K0U61UDD
-  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-Certified-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+<div style="display: flex; gap: 20px; align-items: center;">
+  <a href="https://de.webmasters-europe.org/exams/verify">
+    <img src="https://media.licdn.com/dms/image/C4D0BAQG3Oi-e74RUWQ/company-logo_200_200/0/1630520842724/european_webmaster_association___webmasters_europe_ev_logo?e=2147483647&v=beta&t=XwPmaEdiLgcPDEOFSTSac0azgItqgtI5o9qSEjfgJSU" alt="Webmasters Europe Logo" width="100">
+  </a>
+  <div>
+    <p>Certified JavaScript Developer</p>
+    <p>Webmasters Europe, Dezember 2022</p>
+    <p>Score: 80/100</p>
+    <p>WE-ID: 011238435</p>
+    <p>Verifizierungs-Code: E4T86MK4K0U61UDD</p>
+  </div>
+</div>
 
-- PHP Zend Certified Engineer
-  - April 2023
-  - Zend ID: ZEND033550
-  ![PHP Badge](https://img.shields.io/badge/PHP-Certified-blue?style=for-the-badge&logo=php&logoColor=white)
+<div style="display: flex; gap: 20px; align-items: center;">
+  <a href="https://www.zend-zce.com/en/yellow-pages/ZEND033550">
+    <img src="https://www.zend.com/sites/zend/files/image/2019-09/zce-php-engineer-logo-l.jpg" alt="PHP Zend Badge" width="100">
+  </a>
+  <div>
+    <p>PHP Zend Certified Engineer</p>
+    <p>April 2023</p>
+    <p>Zend ID: ZEND033550</p>
+  </div>
+</div>
 
-- Oracle Certified Associate Java SE 8 Programmer
-  - Juni 2023
-  - Score: 82.1
-  ![Java Badge]([https://img.shields.io/badge/Java-Certified-orange?style=for-the-badge&logo=java&logoColor=white](https://education.oracle.com/file/general/Oracle_Professional_Badge_final.png))
+<div style="display: flex; gap: 20px; align-items: center;">
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=CFFC1DAAE867F6F230CC7308CC1F9E364134F5201569A2CEC5BF9F478A94D1EC">
+    <img src="https://education.oracle.com/file/general/Oracle_Professional_Badge_final.png" alt="OCA Badge" width="100">
+  </a>
+  <div>
+    <p>Oracle Certified Associate Java SE 8 Programmer</p>
+    <p>Juni 2023</p>
+    <p>Score: 82.1</p>
+  </div>
+</div>
+
 
 
 
