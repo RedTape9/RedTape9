@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I see myself as a CodeMonkey, climbing my way to the sky to reach space, and then we'll see what's next 😁    
+### I'm a developer who's fallen head over heels for Java, and it's not just because of the coffee. With a knack for coding and a taste for caffeine, I'm brewing up some serious tech magic 🪄👨🏻‍💻
 
 ### Visit me on
 
