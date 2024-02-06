@@ -84,7 +84,7 @@
 
 <div style="display: flex; gap: 20px; align-items: center;">
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=CFFC1DAAE867F6F230CC7308CC1F9E364134F5201569A2CEC5BF9F478A94D1EC">
-    <img src="[https://education.oracle.com/file/general/Oracle_Professional_Badge_final.png](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.credly.com%2Fimages%2Fa9848abf-f8bd-474d-a9b4-6086da11a916%2FOracle_Associates_Badge__1_.png&f=1&nofb=1&ipt=988a580cf81f27b7659cdff0e8b018d8c02da31855131e8b2ec3c9151cb643b1&ipo=images)" alt="OCA Badge" width="100">
+    <img src="[[https://education.oracle.com/file/general/Oracle_Professional_Badge_final.png](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.credly.com%2Fimages%2Fa9848abf-f8bd-474d-a9b4-6086da11a916%2FOracle_Associates_Badge__1_.png&f=1&nofb=1&ipt=988a580cf81f27b7659cdff0e8b018d8c02da31855131e8b2ec3c9151cb643b1&ipo=images](https://education.oracle.com/file/general/Oracle-Certification-badge_OC-Associate.png))" alt="OCA Badge" width="100">
   </a>
   <div>
     <p>Oracle Certified Associate Java SE 8 Programmer</p>
