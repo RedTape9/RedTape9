@@ -2,7 +2,7 @@
 
 ### I'm a developer who's fallen head over heels for Java, and it's not just because of the coffee. With a knack for coding and a taste for caffeine, I'm brewing up some serious tech magic 🪄👨🏻‍💻
 
-### Visit me on
+### Connect with me 📫  🤝🏻 :
 
 <a href="https://www.xing.com/profile/Sergej_Jaudszims/portfolio">![Xing](https://img.shields.io/badge/Xing-126567?style=for-the-badge&logo=none&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/sergej-jaudszims-80672a250/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
